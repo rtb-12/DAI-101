@@ -1,5 +1,8 @@
 # Exploratory Data Analysis (EDA) on Japan vs. China Technology Dataset
 
+## Dataset
+The Kaggle Dataset reffered for this project : [China Vs Japan EDA](https://www.kaggle.com/code/waqi786/china-vs-japan-eda/notebook)
+
 ## Overview
 
 This project performs an Exploratory Data Analysis (EDA) on a dataset comparing the technological metrics of Japan and China. The dataset includes various key metrics such as:
